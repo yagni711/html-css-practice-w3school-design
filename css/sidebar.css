@@ -1,0 +1,106 @@
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start:0px;
+}
+.sidemenu_li li{
+  list-style-type:none;
+  margin-left: 0px;
+  text-align: left;
+  padding:0px 10px 10px 28px;
+  font-size: 17px;
+  cursor: pointer;
+  font-family:'Segoe UI',Arial,sans-serif;
+}
+.sidemenu_li li:hover{
+  background-color:#E0E0E0 !important;
+  list-style-type:none;
+  margin-left: 0px;
+  text-align: left;
+  padding:0px 10px 10px 28px;
+  font-size: 17px;
+  cursor: pointer;
+  font-family:'Segoe UI',Arial,sans-serif;
+}
+.h2text{
+  margin-left:30px;
+}
+.btn_btn{
+  margin: 20px 20px 20px 40px;
+  background-color:#04AA6D;
+  border:1px solid #04AA6D;
+  border-radius:5px;
+  padding:10px 20px;
+  font-size: 17px;
+  color: white;
+}
+.btn_btn:hover{
+  margin: 20px 20px 20px 40px;
+  background-color:#038857;
+  border:1px solid #038857;
+  border-radius:5px;
+  padding:10px 20px;
+  font-size: 17px;
+  color: white;
+}
+.btn_{
+  margin: 20px 20px 20px 750px;
+  background-color:#04AA6D;
+  border:1px solid #04AA6D;
+  border-radius:5px;
+  padding:10px 20px;
+  font-size: 17px;
+  color: white;
+}
+.btn_:hover{
+  margin: 20px 20px 20px 750px;
+  background-color:#038857;
+  border:1px solid #038857;
+  border-radius:5px;
+  padding:10px 20px;
+  font-size: 17px;
+  color: white;
+}
+.btn_btn_btn{
+  margin: 0px 20px 20px 5px;
+  background-color:#04AA6D;
+  border:1px solid #04AA6D;
+  border-radius:5px;
+  padding:12px 20px;
+  font-size: 19px;
+  color: white;
+}
+.btn_btn_btn:hover{
+  margin: 0px 20px 20px 5px;
+  background-color:#038857;
+  border:1px solid #038857;
+  border-radius:5px;
+  padding:12px 20px;
+  font-size: 19px;
+  color: white;
+}
+.COLOR_PICKER:hover{
+  color: #038857;
+}
+.btn_btnbtn{
+  margin: 0px 20px 20px 5px;
+  background-color:#04AA6D;
+  border:1px solid #04AA6D;
+  border-radius:5px;
+  padding:12px 20px;
+  font-size: 19px;
+  color: white;
+}
+.btn_btnbtn:hover{
+  margin: 0px 20px 20px 5px;
+  background-color:#038857;
+  border:1px solid #038857;
+  border-radius:5px;
+  padding:12px 20px;
+  font-size: 19px;
+  color: white;
+}
