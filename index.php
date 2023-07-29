@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>CSS Tutorial</title>
+<title>CSS Tutorials</title>
  <link rel="icon" href="img/w3.png" type="image/x-icon">
 <link rel="stylesheet" href="css/topbar_style.css">
 <link rel="stylesheet" href="css/sidebar.css">
